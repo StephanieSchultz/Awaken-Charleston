@@ -1,0 +1,66 @@
+/*
+ Theme Name:   Awaken
+ Description:  Mystile Child Theme
+ Author:       Steven Janiak	
+ Author URI:   http://blackwebmarketing.com
+ Template:     mystile
+ Version:      1.0.0
+*/
+
+@import url("../mystile/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+/*#top {display:none;} */
+
+body, h1, h2, h3, h4, h5, h6, p, p a, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a{
+    font-family: "Century Gothic","Apple Gothic",Verdana,sans-serif;
+    color:#777777;
+}
+#main{
+    width: 100% !important;
+}
+.single-product .images{
+    width: 33% !important;
+}
+.single-product .summary{
+    width: 60% !important;
+}
+
+#header #navigation ul.nav > li a {
+    font-size: 12px !important;
+    font-weight: 400 !important;
+    text-transform: uppercase !important;
+}
+.footer-wrap{
+    background-color: #000000 !important;
+}
+
+.sku_wrapper{
+    display: none;
+}
+
+.icons {
+    height: 24px;
+    line-height: 20px;
+    position: absolute;
+    text-align: right;
+}
+.icons .facebooklink {
+    background: url("/images/sprite-socialicons.png") no-repeat scroll -88px 0 rgba(0, 0, 0, 0);
+}
+.icons .twitterlink {
+    background: url("/images/sprite-socialicons.png") no-repeat scroll -22px 0 rgba(0, 0, 0, 0);
+}
+.icons a {
+    display: block;
+    float: right;
+    height: 22px;
+    margin-left: 7px;
+    text-align: right;
+    width: 22px;
+}
+.adminfee{
+    margin: 20px 0;
+}

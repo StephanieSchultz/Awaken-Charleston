@@ -1,0 +1,26 @@
+*** USA ePay Change Log ***
+
+2014.04.15 - version 1.2.1
+ * Added Customer Receipt setting
+
+2014.01.27 - version 1.2.0
+ * Verified compatibility with WooCommerce 2.1
+
+2013.10.29 - version 1.1.4
+ * Branding change
+ * Fixed localization to use 'wc-gateway-usaepay'
+
+2013.02.12 - version 1.1.3
+ * Fixed a php warning for undefined variable cardType
+
+2013.02.04 - version 1.1.2
+ * Verified compatibility with WooCommerce 2.0
+
+2012.12.05 - version 1.1.1
+ * Updater
+
+2012.06.25 - version 1.1
+ * Fixed URL for UseSandbox setting
+
+2012.06.06 - version 1.0
+ * First Release

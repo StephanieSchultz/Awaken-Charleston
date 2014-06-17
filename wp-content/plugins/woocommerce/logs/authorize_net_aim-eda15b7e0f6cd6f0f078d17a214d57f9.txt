@@ -1,0 +1,93 @@
+06-10-2014 @ 16:26:11 - Request Time (s): 1.4314
+Request Method: POST
+Request URI: https://api.authorize.net/xml/v1/request.api
+Request Body: <?xml version="1.0" encoding="UTF-8"?>
+<createTransactionRequest xmlns="AnetApi/xml/v1/schema/AnetApiSchema.xsd">
+  <merchantAuthentication>
+    <name>**********</name>
+    <transactionKey>****************</transactionKey>
+  </merchantAuthentication>
+  <refId>123</refId>
+  <transactionRequest>
+    <transactionType>authCaptureTransaction</transactionType>
+    <amount>100.00</amount>
+    <payment>
+      <creditCard>
+        <cardNumber>4***********4227</cardNumber>
+        <expirationDate>07-2017</expirationDate>
+        <cardCode>***</cardCode>
+      </creditCard>
+    </payment>
+    <order>
+      <invoiceNumber>123</invoiceNumber>
+      <description> - Order #123</description>
+    </order>
+    <lineItems>
+      <lineItem>
+        <itemId>43</itemId>
+        <name><![CDATA[One Time Donation]]></name>
+        <description><![CDATA[giveone One Time Donation]]></description>
+        <quantity>1</quantity>
+        <unitPrice>100</unitPrice>
+      </lineItem>
+    </lineItems>
+    <customer>
+      <id/>
+      <email>sharpeat@g.cofc.edu</email>
+    </customer>
+    <billTo>
+      <firstName>Allie</firstName>
+      <lastName>Sharpe</lastName>
+      <address>173 Rutledge Ave Apt H </address>
+      <city>Charleston</city>
+      <state>SC</state>
+      <zip>29403</zip>
+      <country>US</country>
+      <phoneNumber>8644205997</phoneNumber>
+    </billTo>
+    <shipTo>
+      <address> </address>
+    </shipTo>
+    <customerIP>68.58.255.227</customerIP>
+    <transactionSettings>
+      <setting>
+        <settingName>duplicateWindow</settingName>
+        <settingValue>0</settingValue>
+      </setting>
+    </transactionSettings>
+  </transactionRequest>
+</createTransactionRequest>
+
+06-10-2014 @ 16:26:11 - Response Code: 200
+Response Body: <?xml version="1.0" encoding="utf-8"?>
+<createTransactionResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="AnetApi/xml/v1/schema/AnetApiSchema.xsd">
+  <refId>123</refId>
+  <messages>
+    <resultCode>Ok</resultCode>
+    <message>
+      <code>I00001</code>
+      <text>Successful.</text>
+    </message>
+  </messages>
+  <transactionResponse>
+    <responseCode>2</responseCode>
+    <authCode>754778</authCode>
+    <avsResultCode>N</avsResultCode>
+    <cvvResultCode>M</cvvResultCode>
+    <cavvResultCode/>
+    <transId>6245123588</transId>
+    <refTransID>6245123588</refTransID>
+    <transHash>65781DB34B5D120848A65D22B4F6F079</transHash>
+    <testRequest>0</testRequest>
+    <accountNumber>XXXX4227</accountNumber>
+    <accountType>Visa</accountType>
+    <errors>
+      <error>
+        <errorCode>27</errorCode>
+        <errorText>The transaction has been declined because of an AVS mismatch. The address provided does not match billing address of cardholder.</errorText>
+      </error>
+    </errors>
+  </transactionResponse>
+</createTransactionResponse>
+
+06-10-2014 @ 16:26:11 - Error Code: 27 - The transaction has been declined because of an AVS mismatch. The address provided does not match billing address of cardholder. Transaction ID 6245123588
