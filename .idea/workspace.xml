@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87de208b-4490-4c05-ad58-ade07d2b076b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/admin/accounting.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/admin/accounting.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/global/adminfee-input.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/global/adminfee-input.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="awakencharleston.pps-securepay.com.iws" />
@@ -33,7 +29,7 @@
       <file leaf-file-name="abstract-wc-product.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="763" column="40" selection-start="19012" selection-end="19030" vertical-scroll-proportion="-5.1" vertical-offset="11190" max-vertical-offset="21330">
+            <state line="763" column="66" selection-start="19056" selection-end="19056" vertical-scroll-proportion="12.0" vertical-offset="12045" max-vertical-offset="21330">
               <folding>
                 <marker date="1403109492000" expanded="true" signature="26097:26353" placeholder="SELECT SUM(m..$wpdb-&gt;commentmeta&#10;&#9;&#9;&#9;&#9;&#9;LEFT..." />
                 <marker date="1403109492000" expanded="true" signature="26836:27089" placeholder="SELECT COUNT..$wpdb-&gt;commentmeta&#10;&#9;&#9;&#9;&#9;LEFT..." />
@@ -43,10 +39,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="accounting.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="accounting.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/admin/accounting.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="374" column="8" selection-start="10093" selection-end="12227" vertical-scroll-proportion="0.37945792" vertical-offset="5344" max-vertical-offset="6270">
+            <state line="349" column="55" selection-start="11155" selection-end="11155" vertical-scroll-proportion="-20.038462" vertical-offset="4714" max-vertical-offset="6270">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -239,28 +235,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cart.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="cart.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="18" selection-start="593" selection-end="593" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="2580">
+            <state line="25" column="45" selection-start="743" selection-end="743" vertical-scroll-proportion="0.38406828" vertical-offset="15" max-vertical-offset="2625">
               <folding>
-                <marker date="1403109186000" expanded="true" signature="715:857" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="724:857" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="724:745" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="731:735" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="731:735" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="1147:1365" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="1147:1167" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="1865:1905" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="2179:2227" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="2526:2607" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="3296:3350" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="3870:3970" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="4556:4596" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="4836:4994" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="4872:4994" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="4951:4994" placeholder="..." />
-                <marker date="1403109186000" expanded="true" signature="5940:5960" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="938:1080" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="947:1080" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="947:968" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="954:958" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="954:958" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="1370:1588" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="1370:1390" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="2088:2128" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="2402:2450" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="2749:2830" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="3519:3573" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="4093:4193" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="4779:4819" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="5059:5217" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="5095:5217" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="5174:5217" placeholder="..." />
+                <marker date="1403176496000" expanded="true" signature="6163:6183" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -312,10 +308,10 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/global/adminfee-input.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-cart.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/admin/accounting.js" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php" />
       </list>
     </option>
   </component>
@@ -1013,23 +1009,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="141" column="16" selection-start="5277" selection-end="5288" vertical-scroll-proportion="0.0" vertical-offset="2115" max-vertical-offset="2370">
           <folding>
-            <marker date="1403109186000" expanded="true" signature="715:857" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="724:857" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="724:745" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="731:735" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="731:735" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="1147:1365" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="1147:1167" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="1865:1905" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="2179:2227" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="2526:2607" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="3296:3350" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="3870:3970" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="4556:4596" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="4836:4994" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="4872:4994" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="4951:4994" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="5940:5960" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="938:1080" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="947:1080" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="947:968" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="954:958" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="954:958" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="1370:1588" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="1370:1390" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="2088:2128" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="2402:2450" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="2749:2830" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="3519:3573" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="4093:4193" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="4779:4819" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="5059:5217" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="5095:5217" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="5174:5217" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="6163:6183" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1411,31 +1407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="18" selection-start="593" selection-end="593" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="2580">
-          <folding>
-            <marker date="1403109186000" expanded="true" signature="715:857" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="724:857" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="724:745" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="731:735" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="731:735" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="1147:1365" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="1147:1167" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="1865:1905" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="2179:2227" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="2526:2607" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="3296:3350" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="3870:3970" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="4556:4596" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="4836:4994" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="4872:4994" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="4951:4994" placeholder="..." />
-            <marker date="1403109186000" expanded="true" signature="5940:5960" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-cart.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1094" column="75" selection-start="36629" selection-end="36629" vertical-scroll-proportion="-164.7" vertical-offset="8175" max-vertical-offset="32295">
@@ -1445,9 +1416,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/admin/accounting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="349" column="55" selection-start="11155" selection-end="11155" vertical-scroll-proportion="-20.038462" vertical-offset="4714" max-vertical-offset="6270">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="763" column="40" selection-start="19012" selection-end="19030" vertical-scroll-proportion="-5.1" vertical-offset="11190" max-vertical-offset="21330">
+        <state line="763" column="66" selection-start="19056" selection-end="19056" vertical-scroll-proportion="12.0" vertical-offset="12045" max-vertical-offset="21330">
           <folding>
             <marker date="1403109492000" expanded="true" signature="26097:26353" placeholder="SELECT SUM(m..$wpdb-&gt;commentmeta&#10;&#9;&#9;&#9;&#9;&#9;LEFT..." />
             <marker date="1403109492000" expanded="true" signature="26836:27089" placeholder="SELECT COUNT..$wpdb-&gt;commentmeta&#10;&#9;&#9;&#9;&#9;LEFT..." />
@@ -1456,11 +1436,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/admin/accounting.js">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="374" column="8" selection-start="10093" selection-end="12227" vertical-scroll-proportion="0.37945792" vertical-offset="5344" max-vertical-offset="6270">
+        <state line="25" column="45" selection-start="743" selection-end="743" vertical-scroll-proportion="0.38406828" vertical-offset="15" max-vertical-offset="2625">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1403176496000" expanded="true" signature="938:1080" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="947:1080" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="947:968" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="954:958" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="954:958" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="1370:1588" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="1370:1390" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="2088:2128" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="2402:2450" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="2749:2830" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="3519:3573" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="4093:4193" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="4779:4819" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="5059:5217" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="5095:5217" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="5174:5217" placeholder="..." />
+            <marker date="1403176496000" expanded="true" signature="6163:6183" placeholder="..." />
           </folding>
         </state>
       </provider>

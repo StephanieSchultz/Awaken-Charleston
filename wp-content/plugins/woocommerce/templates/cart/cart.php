@@ -16,6 +16,9 @@ wc_print_notices();
 do_action( 'woocommerce_before_cart' ); ?>
 
 <form action="<?php echo esc_url( WC()->cart->get_cart_url() ); ?>" method="post">
+    <!--Steph's test code
+    I think accounting.js adds the $ symbol to the variables containing numbers so even using the regex wont make the var numeric!
+    So my arithmetic never works using variables. frustration.-->
     <?php $adminfee = 1.03 ?>
     <?php echo "\$adminfee is set as ".$adminfee.'<br>';
     $cost='$100'; echo $cost;
