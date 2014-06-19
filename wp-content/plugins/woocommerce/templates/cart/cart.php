@@ -16,7 +16,16 @@ wc_print_notices();
 do_action( 'woocommerce_before_cart' ); ?>
 
 <form action="<?php echo esc_url( WC()->cart->get_cart_url() ); ?>" method="post">
+    <?php $adminfee = 1.03 ?>
+    <?php echo "\$adminfee is set as ".$adminfee.'<br>';
+    $cost='$100'; echo $cost;
+    ?><br>
+    <?php $b = str_replace( '$', '', $cost );
+    if( is_numeric( $b ) ) {
+    $cost = $b;
+    }?>
 
+    <?php echo'$'.$cost * $adminfee?>
 <?php do_action( 'woocommerce_before_cart_table' ); ?>
 
 <table class="shop_table cart" cellspacing="0">
@@ -78,12 +87,17 @@ do_action( 'woocommerce_before_cart' ); ?>
 					<td class="product-price">
 						<?php
                 $price =  apply_filters( 'woocommerce_cart_item_price', WC()->cart->get_product_price( $_product ), $cart_item, $cart_item_key );
-                        $adminfee = $values['adminfee'];
-                        if(isset($adminfee)){
-                        echo ($adminfee * $price);
-                        }else{
-                            echo $price;
+
+                        $b = str_replace( '$', '', $price );
+                        if( is_numeric( $b ) ) {
+                            $price = $b;
                         }
+                        if(isset($adminfee)){
+                        echo ($b);
+                        }else{
+                            echo ($price);
+                        }
+
 						?>
 					</td>
 

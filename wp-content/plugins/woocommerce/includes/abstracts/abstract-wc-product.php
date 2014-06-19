@@ -761,20 +761,21 @@ class WC_Product {
 	}
 
 
-    public function get_price_adminfee( $price='', $adminfee='' ) {
+/*    public function get_price_adminfee( $price='', $adminfee ) {
         if ( ! $price ){
             $price = $this->get_price();
+            $adminfee = 1;
         };
-        $price = round($price * $adminfee, absint( get_option('woocommerce_price_num_decimals') ) );
+        ($price * $adminfee ) == $price;
+return $price;
 
-
-        return apply_filters( 'woocommerce_get_price_adminfee', $price, $adminfee, $this );
-    }
+//        return apply_filters( 'woocommerce_get_price_adminfee', $price, $adminfee, $this );
+    }*/
         /**
 	 * Returns the price (including tax). Uses customer tax rates. Can work for a specific $qty for more accurate taxes.
 	 *
 	 * @access public
-	 * @param  string $price to calculdate, left blank to just use get_price()
+	 * @param  string $price to calculate, left blank to just use get_price()
 	 * @return string
 	 */
 	public function get_price_including_tax( $qty = 1, $price = '' ) {

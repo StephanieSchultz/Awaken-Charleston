@@ -273,7 +273,7 @@
 	 *
 	 * To do: tidy up the parameters
 	 */
-	var formatMoney = lib.formatMoney = function(number, symbol, precision, thousand, decimal, format) {
+	/*var formatMoney = lib.formatMoney = function(number, symbol, precision, thousand, decimal, format) {
 		// Resursively format arrays:
 		if (isArray(number)) {
 			return map(number, function(val){
@@ -305,7 +305,7 @@
 		// Return with currency symbol added:
 		return useFormat.replace('%s', opts.symbol).replace('%v', formatNumber(Math.abs(number), checkPrecision(opts.precision), opts.thousand, opts.decimal));
 	};
-
+*/
 
 	/**
 	 * Format a list of numbers into an accounting column, padding with whitespace
@@ -319,7 +319,7 @@
 	 * NB: `white-space:pre` CSS rule is required on the list container to prevent
 	 * browsers from collapsing the whitespace in the output strings.
 	 */
-	lib.formatColumn = function(list, symbol, precision, thousand, decimal, format) {
+	/*lib.formatColumn = function(list, symbol, precision, thousand, decimal, format) {
 		if (!list) return [];
 
 		// Build options object from second param (if object) or all params, extending defaults:
@@ -372,7 +372,7 @@
 			}
 			return val;
 		});
-	};
+	};*/
 
 
 	/* --- Module Definition --- */

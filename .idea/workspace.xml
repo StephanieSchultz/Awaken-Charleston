@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87de208b-4490-4c05-ad58-ade07d2b076b" name="Default" comment="" />
+    <list default="true" id="87de208b-4490-4c05-ad58-ade07d2b076b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/admin/accounting.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/admin/accounting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/global/adminfee-input.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/global/adminfee-input.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="awakencharleston.pps-securepay.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,75 +24,44 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="cart.php" pinned="false" current="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state line="84" column="40" selection-start="3416" selection-end="3416" vertical-scroll-proportion="0.3586207" vertical-offset="910" max-vertical-offset="2370">
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="awakencharleston.pps-securepay.com" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="class-wc-shortcodes.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="513" column="46" selection-start="12376" selection-end="12385" vertical-scroll-proportion="-4.5" vertical-offset="7470" max-vertical-offset="14850">
-              <folding>
-                <marker date="1402681393000" expanded="true" signature="11957:12042" placeholder="SELECT post_..$wpdb-&gt;postmeta WHERE..." />
-                <marker date="1402681393000" expanded="true" signature="13014:13099" placeholder="SELECT post_..$wpdb-&gt;postmeta WHERE..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="abstract-wc-product.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="769" column="0" selection-start="19237" selection-end="19237" vertical-scroll-proportion="-6.0" vertical-offset="11235" max-vertical-offset="21315">
+            <state line="763" column="40" selection-start="19012" selection-end="19030" vertical-scroll-proportion="-5.1" vertical-offset="11190" max-vertical-offset="21330">
               <folding>
-                <marker date="1403021682000" expanded="true" signature="26114:26370" placeholder="SELECT SUM(m..$wpdb-&gt;commentmeta&#10;&#9;&#9;&#9;&#9;&#9;LEFT..." />
-                <marker date="1403021682000" expanded="true" signature="26853:27106" placeholder="SELECT COUNT..$wpdb-&gt;commentmeta&#10;&#9;&#9;&#9;&#9;LEFT..." />
-                <marker date="1403021682000" expanded="true" signature="30894:30934" placeholder="SELECT DISTI..." />
+                <marker date="1403109492000" expanded="true" signature="26097:26353" placeholder="SELECT SUM(m..$wpdb-&gt;commentmeta&#10;&#9;&#9;&#9;&#9;&#9;LEFT..." />
+                <marker date="1403109492000" expanded="true" signature="26836:27089" placeholder="SELECT COUNT..$wpdb-&gt;commentmeta&#10;&#9;&#9;&#9;&#9;LEFT..." />
+                <marker date="1403109492000" expanded="true" signature="30877:30917" placeholder="SELECT DISTI..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form-coupon.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/checkout/form-coupon.php">
+      <file leaf-file-name="accounting.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/admin/accounting.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="7" selection-start="989" selection-end="989" vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="495">
+            <state line="374" column="8" selection-start="10093" selection-end="12227" vertical-scroll-proportion="0.37945792" vertical-offset="5344" max-vertical-offset="6270">
               <folding>
-                <marker date="1402681435000" expanded="true" signature="590:602" placeholder="..." />
-                <marker date="1402681435000" expanded="true" signature="603:988" placeholder="..." />
-                <marker date="1402681435000" expanded="true" signature="641:794" placeholder="..." />
-                <marker date="1402681435000" expanded="true" signature="831:952" placeholder="..." />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="price.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/loop/price.php">
+      <file leaf-file-name="wc-template-functions.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="15" selection-start="328" selection-end="328" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-              <folding />
+            <state line="926" column="0" selection-start="22655" selection-end="22655" vertical-scroll-proportion="-3.9" vertical-offset="13560" max-vertical-offset="27585">
+              <folding>
+                <marker date="1403104003000" expanded="true" signature="33291:33369" placeholder="SELECT term_..." />
+                <marker date="1403104003000" expanded="true" signature="39120:39306" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,55 +69,210 @@
       <file leaf-file-name="class-wc-cart.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-cart.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="996" column="51" selection-start="33223" selection-end="33223" vertical-scroll-proportion="-3.9" vertical-offset="14745" max-vertical-offset="31710">
+            <state line="1094" column="75" selection-start="36629" selection-end="36629" vertical-scroll-proportion="-164.7" vertical-offset="8175" max-vertical-offset="32295">
               <folding>
-                <element signature="n#get_cart_tax#0;n#WC_Cart#0;n#!!top" expanded="false" />
-                <element signature="n#get_taxes_total#0;n#WC_Cart#0;n#!!top" expanded="false" />
-                <element signature="n#get_discounts_before_tax#0;n#WC_Cart#0;n#!!top" expanded="false" />
-                <element signature="n#get_discounts_after_tax#0;n#WC_Cart#0;n#!!top" expanded="false" />
-                <element signature="n#get_total_discount#0;n#WC_Cart#0;n#!!top" expanded="false" />
-                <marker date="1403016126000" expanded="true" signature="14268:15342" placeholder="SELECT SUM( ..." />
+                <marker date="1403109358000" expanded="true" signature="14268:15342" placeholder="SELECT SUM( ..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="class-wc-form-handler.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="class-wc-form-handler.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="535" column="0" selection-start="17316" selection-end="17316" vertical-scroll-proportion="2.443439" vertical-offset="1155" max-vertical-offset="7980">
+            <state line="559" column="34" selection-start="18352" selection-end="18352" vertical-scroll-proportion="10.5" vertical-offset="1350" max-vertical-offset="2400">
               <folding>
+                <element signature="e#7#76#0" expanded="false" />
+                <element signature="e#78#236#0" expanded="false" />
+                <element signature="e#263#287#0" expanded="false" />
                 <element signature="n#__construct#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+                <element signature="e#1088#1211#0" expanded="false" />
                 <element signature="n#save_address#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+                <element signature="e#1277#1354#0" expanded="false" />
+                <element signature="e#1358#1485#0" expanded="false" />
+                <element signature="e#1596#1633#0" expanded="false" />
+                <element signature="e#1884#3803#0" expanded="false" />
+                <element signature="e#1929#1997#0" expanded="false" />
+                <element signature="e#2018#2244#0" expanded="false" />
+                <element signature="e#2050#2133#0" expanded="false" />
+                <element signature="e#2138#2239#0" expanded="false" />
+                <element signature="e#2426#2595#0" expanded="false" />
+                <element signature="e#2623#3799#0" expanded="false" />
+                <element signature="e#2700#3794#0" expanded="false" />
+                <element signature="e#2747#3788#0" expanded="false" />
+                <element signature="e#2772#3201#0" expanded="false" />
+                <element signature="e#2876#3188#0" expanded="false" />
+                <element signature="e#3208#3504#0" expanded="false" />
+                <element signature="e#3297#3491#0" expanded="false" />
+                <element signature="e#3511#3781#0" expanded="false" />
+                <element signature="e#3588#3768#0" expanded="false" />
+                <element signature="e#3807#4190#0" expanded="false" />
+                <element signature="e#3852#3953#0" expanded="false" />
+                <element signature="e#4196#4284#0" expanded="false" />
                 <element signature="n#save_account_details#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+                <element signature="e#4330#4407#0" expanded="false" />
+                <element signature="e#4411#4546#0" expanded="false" />
+                <element signature="e#4819#4857#0" expanded="false" />
+                <element signature="e#5558#5607#0" expanded="false" />
+                <element signature="e#5611#5760#0" expanded="false" />
+                <element signature="e#5764#6114#0" expanded="false" />
+                <element signature="e#5924#6114#0" expanded="false" />
+                <element signature="e#6118#6384#0" expanded="false" />
+                <element signature="e#6252#6384#0" expanded="false" />
+                <element signature="e#6528#6670#0" expanded="false" />
+                <element signature="e#6570#6666#0" expanded="false" />
+                <element signature="e#6674#6976#0" expanded="false" />
+                <element signature="e#6982#7021#0" expanded="false" />
                 <element signature="n#checkout_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+                <element signature="e#7061#7500#0" expanded="false" />
+                <element signature="e#7183#7306#0" expanded="false" />
+                <element signature="e#7311#7404#0" expanded="false" />
+                <element signature="e#7506#7540#0" expanded="false" />
                 <element signature="n#pay_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+                <element signature="e#7590#9617#0" expanded="false" />
+                <element signature="e#7903#9612#0" expanded="false" />
+                <element signature="e#8083#8182#0" expanded="false" />
+                <element signature="e#8187#8280#0" expanded="false" />
+                <element signature="e#8285#8387#0" expanded="false" />
+                <element signature="e#8392#8482#0" expanded="false" />
+                <element signature="e#8517#9606#0" expanded="false" />
+                <element signature="e#8796#8942#0" expanded="false" />
+                <element signature="e#9131#9432#0" expanded="false" />
+                <element signature="e#9321#9424#0" expanded="false" />
+                <element signature="e#9440#9606#0" expanded="false" />
                 <element signature="e#9623#9672#0" expanded="false" />
                 <element signature="n#add_payment_method_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+                <element signature="e#9737#10502#0" expanded="false" />
+                <element signature="e#10158#10497#0" expanded="false" />
+                <element signature="e#10323#10491#0" expanded="false" />
                 <element signature="e#10509#10546#0" expanded="false" />
                 <element signature="n#update_cart_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
                 <element signature="e#10608#11318#0" expanded="false" />
                 <element signature="e#10796#10914#0" expanded="false" />
                 <element signature="e#10940#11318#0" expanded="false" />
+                <element signature="e#11399#13570#0" expanded="false" />
+                <element signature="e#11703#12869#0" expanded="false" />
+                <element signature="e#11753#12864#0" expanded="false" />
+                <element signature="e#11915#11995#0" expanded="false" />
+                <element signature="e#12493#12721#0" expanded="false" />
+                <element signature="e#12728#12830#0" expanded="false" />
+                <element signature="e#13082#13170#0" expanded="false" />
+                <element signature="e#13175#13566#0" expanded="false" />
+                <element signature="e#13284#13566#0" expanded="false" />
+                <element signature="e#13576#13618#0" expanded="false" />
+                <element signature="n#order_again#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+                <element signature="e#13674#13855#0" expanded="false" />
+                <element signature="e#14036#14079#0" expanded="false" />
+                <element signature="e#14083#14136#0" expanded="false" />
+                <element signature="e#14268#14339#0" expanded="false" />
+                <element signature="e#14389#15439#0" expanded="false" />
+                <element signature="e#14809#15121#0" expanded="false" />
+                <element signature="e#14875#15116#0" expanded="false" />
+                <element signature="e#14983#15116#0" expanded="false" />
+                <element signature="e#15155#15324#0" expanded="false" />
+                <element signature="e#15692#15728#0" expanded="false" />
+                <element signature="n#cancel_order#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+                <element signature="e#15765#17312#0" expanded="false" />
+                <element signature="e#16265#17235#0" expanded="false" />
+                <element signature="e#16351#16961#0" expanded="false" />
+                <element signature="e#16962#17154#0" expanded="false" />
+                <element signature="e#17155#17235#0" expanded="false" />
+                <element signature="e#17240#17308#0" expanded="false" />
+                <element signature="e#17541#17642#0" expanded="false" />
+                <element signature="e#19328#19860#0" expanded="false" />
+                <element signature="e#19388#19837#0" expanded="false" />
+                <element signature="e#19479#19837#0" expanded="false" />
+                <element signature="e#20585#21631#0" expanded="false" />
+                <element signature="e#20697#21153#0" expanded="false" />
+                <element signature="e#20760#20806#0" expanded="false" />
+                <element signature="e#20979#21147#0" expanded="false" />
+                <element signature="e#21013#21140#0" expanded="false" />
+                <element signature="e#21159#21239#0" expanded="false" />
+                <element signature="e#21245#21440#0" expanded="false" />
+                <element signature="e#21447#21631#0" expanded="false" />
+                <element signature="e#21933#22182#0" expanded="false" />
+                <element signature="e#22000#22177#0" expanded="false" />
+                <element signature="e#22269#22669#0" expanded="false" />
+                <element signature="e#22433#22664#0" expanded="false" />
+                <element signature="e#22526#22664#0" expanded="false" />
+                <element signature="e#22676#22712#0" expanded="false" />
+                <element signature="e#22750#25179#0" expanded="false" />
+                <element signature="e#22887#25175#0" expanded="false" />
+                <element signature="e#23098#23276#0" expanded="false" />
+                <element signature="e#23282#23458#0" expanded="false" />
+                <element signature="e#23464#23640#0" expanded="false" />
+                <element signature="e#23646#24151#0" expanded="false" />
+                <element signature="e#23813#24082#0" expanded="false" />
+                <element signature="e#23905#24082#0" expanded="false" />
+                <element signature="e#24090#24151#0" expanded="false" />
+                <element signature="e#24441#25059#0" expanded="false" />
+                <element signature="e#24533#25059#0" expanded="false" />
+                <element signature="e#24546#24815#0" expanded="false" />
+                <element signature="e#24641#24724#0" expanded="false" />
+                <element signature="e#24725#24815#0" expanded="false" />
+                <element signature="e#25066#25175#0" expanded="false" />
+                <element signature="e#25185#25224#0" expanded="false" />
+                <element signature="e#25271#25333#0" expanded="false" />
+                <element signature="e#25369#25563#0" expanded="false" />
+                <element signature="e#25600#27140#0" expanded="false" />
+                <element signature="e#25911#27135#0" expanded="false" />
+                <element signature="e#26192#26391#0" expanded="false" />
+                <element signature="e#26397#26579#0" expanded="false" />
+                <element signature="e#26675#26824#0" expanded="false" />
+                <element signature="e#26719#26818#0" expanded="false" />
+                <element signature="e#26830#27130#0" expanded="false" />
+                <element signature="e#27146#27189#0" expanded="false" />
+                <element signature="e#27234#29069#0" expanded="false" />
+                <element signature="e#27344#27495#0" expanded="false" />
+                <element signature="e#27463#27495#0" expanded="false" />
+                <element signature="e#27500#27651#0" expanded="false" />
+                <element signature="e#27619#27651#0" expanded="false" />
+                <element signature="e#27656#28128#0" expanded="false" />
+                <element signature="e#27852#28030#0" expanded="false" />
+                <element signature="e#28037#28128#0" expanded="false" />
+                <element signature="e#28340#28539#0" expanded="false" />
+                <element signature="e#28620#28740#0" expanded="false" />
+                <element signature="e#28810#28972#0" expanded="false" />
+                <element signature="e#28886#28972#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/awaken/style.css">
+      <file leaf-file-name="cart.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="26" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1065">
-              <folding />
+            <state line="27" column="18" selection-start="593" selection-end="593" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="2580">
+              <folding>
+                <marker date="1403109186000" expanded="true" signature="715:857" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="724:857" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="724:745" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="731:735" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="731:735" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="1147:1365" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="1147:1167" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="1865:1905" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="2179:2227" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="2526:2607" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="3296:3350" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="3870:3970" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="4556:4596" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="4836:4994" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="4872:4994" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="4951:4994" placeholder="..." />
+                <marker date="1403109186000" expanded="true" signature="5940:5960" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content-product.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-product.php">
+      <file leaf-file-name="adminfee-input.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/global/adminfee-input.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="0" selection-start="1782" selection-end="1782" vertical-scroll-proportion="-37.5" vertical-offset="0" max-vertical-offset="1005">
-              <folding />
+            <state line="15" column="6" selection-start="460" selection-end="460" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="255">
+              <folding>
+                <marker date="1403061371000" expanded="true" signature="189:459" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -178,19 +309,20 @@
         <option value="$PROJECT_DIR$/wp-content/themes/awaken/style.css" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce-name-your-price/includes/class-wc-name-your-price-helpers.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/global/adminfee-input.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-cart.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php" />
-        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/admin/accounting.js" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="503" />
-    <option name="y" value="81" />
+    <option name="x" value="29" />
+    <option name="y" value="22" />
     <option name="width" value="1400" />
     <option name="height" value="860" />
   </component>
@@ -220,7 +352,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -355,12 +486,219 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awakencharleston.pps-securepay.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awakencharleston.pps-securepay.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="global" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awakencharleston.pps-securepay.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awakencharleston.pps-securepay.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awakencharleston.pps-securepay.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awakencharleston.pps-securepay.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awakencharleston.pps-securepay.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awakencharleston.pps-securepay.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awakencharleston.pps-securepay.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awakencharleston.pps-securepay.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awakencharleston.pps-securepay.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awakencharleston.pps-securepay.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awakencharleston.pps-securepay.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awakencharleston.pps-securepay.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plugins" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="woocommerce" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -408,10 +746,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="503" y="81" width="1400" height="860" extended-state="0" />
-    <editor active="false" />
+    <frame x="29" y="22" width="1400" height="860" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32996207" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996207" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -432,11 +770,11 @@
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32996207" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -446,9 +784,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -470,59 +808,255 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/global/quantity-input.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+        <state line="12" column="65" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="285">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="137" column="38" selection-start="3738" selection-end="3746" vertical-scroll-proportion="0.0" vertical-offset="1917" max-vertical-offset="21315">
+          <folding>
+            <marker date="1403109492000" expanded="true" signature="26097:26353" placeholder="SELECT SUM(m..$wpdb-&gt;commentmeta&#10;&#9;&#9;&#9;&#9;&#9;LEFT..." />
+            <marker date="1403109492000" expanded="true" signature="26836:27089" placeholder="SELECT COUNT..$wpdb-&gt;commentmeta&#10;&#9;&#9;&#9;&#9;LEFT..." />
+            <marker date="1403109492000" expanded="true" signature="30877:30917" placeholder="SELECT DISTI..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1974" column="0" selection-start="65838" selection-end="65838" vertical-scroll-proportion="0.0" vertical-offset="29610" max-vertical-offset="32295">
+          <folding>
+            <marker date="1403109358000" expanded="true" signature="14268:15342" placeholder="SELECT SUM( ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="558" column="21" selection-start="18192" selection-end="18200" vertical-scroll-proportion="0.0" vertical-offset="7980" max-vertical-offset="7980">
+          <folding>
+            <element signature="e#7#76#0" expanded="false" />
+            <element signature="e#78#236#0" expanded="false" />
+            <element signature="e#263#287#0" expanded="false" />
+            <element signature="n#__construct#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#1088#1211#0" expanded="false" />
+            <element signature="n#save_address#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#1277#1354#0" expanded="false" />
+            <element signature="e#1358#1485#0" expanded="false" />
+            <element signature="e#1596#1633#0" expanded="false" />
+            <element signature="e#1884#3803#0" expanded="false" />
+            <element signature="e#1929#1997#0" expanded="false" />
+            <element signature="e#2018#2244#0" expanded="false" />
+            <element signature="e#2050#2133#0" expanded="false" />
+            <element signature="e#2138#2239#0" expanded="false" />
+            <element signature="e#2426#2595#0" expanded="false" />
+            <element signature="e#2623#3799#0" expanded="false" />
+            <element signature="e#2700#3794#0" expanded="false" />
+            <element signature="e#2747#3788#0" expanded="false" />
+            <element signature="e#2772#3201#0" expanded="false" />
+            <element signature="e#2876#3188#0" expanded="false" />
+            <element signature="e#3208#3504#0" expanded="false" />
+            <element signature="e#3297#3491#0" expanded="false" />
+            <element signature="e#3511#3781#0" expanded="false" />
+            <element signature="e#3588#3768#0" expanded="false" />
+            <element signature="e#3807#4190#0" expanded="false" />
+            <element signature="e#3852#3953#0" expanded="false" />
+            <element signature="e#4196#4284#0" expanded="false" />
+            <element signature="n#save_account_details#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#4330#4407#0" expanded="false" />
+            <element signature="e#4411#4546#0" expanded="false" />
+            <element signature="e#4819#4857#0" expanded="false" />
+            <element signature="e#5558#5607#0" expanded="false" />
+            <element signature="e#5611#5760#0" expanded="false" />
+            <element signature="e#5764#6114#0" expanded="false" />
+            <element signature="e#5924#6114#0" expanded="false" />
+            <element signature="e#6118#6384#0" expanded="false" />
+            <element signature="e#6252#6384#0" expanded="false" />
+            <element signature="e#6528#6670#0" expanded="false" />
+            <element signature="e#6570#6666#0" expanded="false" />
+            <element signature="e#6674#6976#0" expanded="false" />
+            <element signature="e#6982#7021#0" expanded="false" />
+            <element signature="n#checkout_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#7061#7500#0" expanded="false" />
+            <element signature="e#7183#7306#0" expanded="false" />
+            <element signature="e#7311#7404#0" expanded="false" />
+            <element signature="e#7506#7540#0" expanded="false" />
+            <element signature="n#pay_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#7590#9617#0" expanded="false" />
+            <element signature="e#7903#9612#0" expanded="false" />
+            <element signature="e#8083#8182#0" expanded="false" />
+            <element signature="e#8187#8280#0" expanded="false" />
+            <element signature="e#8285#8387#0" expanded="false" />
+            <element signature="e#8392#8482#0" expanded="false" />
+            <element signature="e#8517#9606#0" expanded="false" />
+            <element signature="e#8796#8942#0" expanded="false" />
+            <element signature="e#9131#9432#0" expanded="false" />
+            <element signature="e#9321#9424#0" expanded="false" />
+            <element signature="e#9440#9606#0" expanded="false" />
+            <element signature="e#9623#9672#0" expanded="false" />
+            <element signature="n#add_payment_method_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#9737#10502#0" expanded="false" />
+            <element signature="e#10158#10497#0" expanded="false" />
+            <element signature="e#10323#10491#0" expanded="false" />
+            <element signature="e#10509#10546#0" expanded="false" />
+            <element signature="n#update_cart_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#10608#11318#0" expanded="false" />
+            <element signature="e#10796#10914#0" expanded="false" />
+            <element signature="e#10940#11318#0" expanded="false" />
+            <element signature="e#11399#13570#0" expanded="false" />
+            <element signature="e#11703#12869#0" expanded="false" />
+            <element signature="e#11753#12864#0" expanded="false" />
+            <element signature="e#11915#11995#0" expanded="false" />
+            <element signature="e#12493#12721#0" expanded="false" />
+            <element signature="e#12728#12830#0" expanded="false" />
+            <element signature="e#13082#13170#0" expanded="false" />
+            <element signature="e#13175#13566#0" expanded="false" />
+            <element signature="e#13284#13566#0" expanded="false" />
+            <element signature="e#13576#13618#0" expanded="false" />
+            <element signature="n#order_again#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#13674#13855#0" expanded="false" />
+            <element signature="e#14036#14079#0" expanded="false" />
+            <element signature="e#14083#14136#0" expanded="false" />
+            <element signature="e#14268#14339#0" expanded="false" />
+            <element signature="e#14389#15439#0" expanded="false" />
+            <element signature="e#14809#15121#0" expanded="false" />
+            <element signature="e#14875#15116#0" expanded="false" />
+            <element signature="e#14983#15116#0" expanded="false" />
+            <element signature="e#15155#15324#0" expanded="false" />
+            <element signature="e#15692#15728#0" expanded="false" />
+            <element signature="n#cancel_order#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#15765#17312#0" expanded="false" />
+            <element signature="e#16265#17235#0" expanded="false" />
+            <element signature="e#16351#16961#0" expanded="false" />
+            <element signature="e#16962#17154#0" expanded="false" />
+            <element signature="e#17155#17235#0" expanded="false" />
+            <element signature="e#17240#17308#0" expanded="false" />
+            <element signature="e#17541#17642#0" expanded="false" />
+            <element signature="e#19328#19860#0" expanded="false" />
+            <element signature="e#19388#19837#0" expanded="false" />
+            <element signature="e#19479#19837#0" expanded="false" />
+            <element signature="e#20585#21631#0" expanded="false" />
+            <element signature="e#20697#21153#0" expanded="false" />
+            <element signature="e#20760#20806#0" expanded="false" />
+            <element signature="e#20979#21147#0" expanded="false" />
+            <element signature="e#21013#21140#0" expanded="false" />
+            <element signature="e#21159#21239#0" expanded="false" />
+            <element signature="e#21245#21440#0" expanded="false" />
+            <element signature="e#21447#21631#0" expanded="false" />
+            <element signature="e#21933#22182#0" expanded="false" />
+            <element signature="e#22000#22177#0" expanded="false" />
+            <element signature="e#22269#22669#0" expanded="false" />
+            <element signature="e#22433#22664#0" expanded="false" />
+            <element signature="e#22526#22664#0" expanded="false" />
+            <element signature="e#22676#22712#0" expanded="false" />
+            <element signature="e#22750#25179#0" expanded="false" />
+            <element signature="e#22887#25175#0" expanded="false" />
+            <element signature="e#23098#23276#0" expanded="false" />
+            <element signature="e#23282#23458#0" expanded="false" />
+            <element signature="e#23464#23640#0" expanded="false" />
+            <element signature="e#23646#24151#0" expanded="false" />
+            <element signature="e#23813#24082#0" expanded="false" />
+            <element signature="e#23905#24082#0" expanded="false" />
+            <element signature="e#24090#24151#0" expanded="false" />
+            <element signature="e#24441#25059#0" expanded="false" />
+            <element signature="e#24533#25059#0" expanded="false" />
+            <element signature="e#24546#24815#0" expanded="false" />
+            <element signature="e#24641#24724#0" expanded="false" />
+            <element signature="e#24725#24815#0" expanded="false" />
+            <element signature="e#25066#25175#0" expanded="false" />
+            <element signature="e#25185#25224#0" expanded="false" />
+            <element signature="e#25271#25333#0" expanded="false" />
+            <element signature="e#25369#25563#0" expanded="false" />
+            <element signature="e#25600#27140#0" expanded="false" />
+            <element signature="e#25911#27135#0" expanded="false" />
+            <element signature="e#26192#26391#0" expanded="false" />
+            <element signature="e#26397#26579#0" expanded="false" />
+            <element signature="e#26675#26824#0" expanded="false" />
+            <element signature="e#26719#26818#0" expanded="false" />
+            <element signature="e#26830#27130#0" expanded="false" />
+            <element signature="e#27146#27189#0" expanded="false" />
+            <element signature="e#27234#29069#0" expanded="false" />
+            <element signature="e#27344#27495#0" expanded="false" />
+            <element signature="e#27463#27495#0" expanded="false" />
+            <element signature="e#27500#27651#0" expanded="false" />
+            <element signature="e#27619#27651#0" expanded="false" />
+            <element signature="e#27656#28128#0" expanded="false" />
+            <element signature="e#27852#28030#0" expanded="false" />
+            <element signature="e#28037#28128#0" expanded="false" />
+            <element signature="e#28340#28539#0" expanded="false" />
+            <element signature="e#28620#28740#0" expanded="false" />
+            <element signature="e#28810#28972#0" expanded="false" />
+            <element signature="e#28886#28972#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/global/adminfee-input.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="375">
-          <folding />
+          <folding>
+            <marker date="1403061371000" expanded="true" signature="189:459" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="141" column="16" selection-start="5277" selection-end="5288" vertical-scroll-proportion="0.0" vertical-offset="2115" max-vertical-offset="2370">
-          <folding />
+          <folding>
+            <marker date="1403109186000" expanded="true" signature="715:857" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="724:857" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="724:745" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="731:735" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="731:735" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="1147:1365" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="1147:1167" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="1865:1905" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="2179:2227" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="2526:2607" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="3296:3350" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="3870:3970" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="4556:4596" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="4836:4994" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="4872:4994" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="4951:4994" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="5940:5960" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart-item-data.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="39" selection-start="1223" selection-end="1223" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="840">
-          <folding>
-            <marker date="1403012885000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1403012885000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="39" column="39" selection-start="1223" selection-end="1223" vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="840" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="931" column="61" selection-start="22835" selection-end="22835" vertical-scroll-proportion="0.0" vertical-offset="13965" max-vertical-offset="27555">
           <folding>
-            <marker date="1403013771000" expanded="true" signature="-1:-1" placeholder="SELECT term_..." />
-            <marker date="1403013771000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1403104003000" expanded="true" signature="33291:33369" placeholder="SELECT term_..." />
+            <marker date="1403104003000" expanded="true" signature="39120:39306" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="0" selection-start="1782" selection-end="1782" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1125">
-          <folding />
-        </state>
+        <state line="68" column="0" selection-start="1782" selection-end="1782" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1125" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/global/quantity-input.php">
@@ -571,9 +1105,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product/meta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="727">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="727" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/api/class-wc-api-products.php">
@@ -593,9 +1125,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product/price.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="6" selection-start="672" selection-end="672" vertical-scroll-proportion="0.31424582" vertical-offset="0" max-vertical-offset="716">
-          <folding />
-        </state>
+        <state line="21" column="6" selection-start="672" selection-end="672" vertical-scroll-proportion="0.31424582" vertical-offset="0" max-vertical-offset="716" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product/product-attributes.php">
@@ -618,75 +1148,24 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="740" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/awaken/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="26" selection-start="547" selection-end="547" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1065">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="0" selection-start="1782" selection-end="1782" vertical-scroll-proportion="-37.5" vertical-offset="0" max-vertical-offset="1005">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce-name-your-price/templates/single-product/minimum-price.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="740">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="740" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce-name-your-price/includes/class-wc-name-your-price-helpers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="275" column="16" selection-start="6818" selection-end="6818" vertical-scroll-proportion="109.375" vertical-offset="6750" max-vertical-offset="11475">
-          <folding />
-        </state>
+        <state line="275" column="16" selection-start="6818" selection-end="6818" vertical-scroll-proportion="109.375" vertical-offset="6750" max-vertical-offset="11475" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/simple.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="-3.0416667" vertical-offset="62" max-vertical-offset="765">
-          <folding>
-            <marker date="1403012885000" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1403012885000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="932" column="20" selection-start="22855" selection-end="22855" vertical-scroll-proportion="-11.1" vertical-offset="13290" max-vertical-offset="27585">
-          <folding>
-            <marker date="1403013771000" expanded="true" signature="-1:-1" placeholder="SELECT term_..." />
-            <marker date="1403013771000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="15" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="-3.0416667" vertical-offset="62" max-vertical-offset="765" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart-item-data.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="9" selection-start="238" selection-end="238" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/global/adminfee-input.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="345">
-          <folding>
-            <marker date="1403015499000" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/global/quantity-input.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="65" selection-start="281" selection-end="281" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
+        <state line="13" column="9" selection-start="238" selection-end="238" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="315" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-product-variation.php">
@@ -698,118 +1177,290 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce-name-your-price/templates/single-product/price-input.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="727">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="727" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/checkout/form-coupon.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="7" selection-start="989" selection-end="989" vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="495">
-          <folding>
-            <marker date="1402681435000" expanded="true" signature="590:602" placeholder="..." />
-            <marker date="1402681435000" expanded="true" signature="603:988" placeholder="..." />
-            <marker date="1402681435000" expanded="true" signature="641:794" placeholder="..." />
-            <marker date="1402681435000" expanded="true" signature="831:952" placeholder="..." />
-          </folding>
-        </state>
+        <state line="33" column="7" selection-start="989" selection-end="989" vertical-scroll-proportion="-16.875" vertical-offset="0" max-vertical-offset="495" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3570">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3570" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.23603351" vertical-offset="169" max-vertical-offset="885">
-          <folding>
-            <element signature="e#748#2070#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.23603351" vertical-offset="169" max-vertical-offset="885" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/loop/price.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="15" selection-start="328" selection-end="328" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="16" column="15" selection-start="328" selection-end="328" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-single-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="15.166667" vertical-offset="364" max-vertical-offset="1080">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="15.166667" vertical-offset="364" max-vertical-offset="1080" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/single-product.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="763">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="763" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="513" column="46" selection-start="12376" selection-end="12385" vertical-scroll-proportion="-4.5" vertical-offset="7470" max-vertical-offset="14850">
+        <state line="513" column="46" selection-start="12376" selection-end="12385" vertical-scroll-proportion="-4.5" vertical-offset="7470" max-vertical-offset="14850" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/content-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="38" selection-start="388" selection-end="388" vertical-scroll-proportion="0.23076923" vertical-offset="0" max-vertical-offset="1005" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/awaken/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="26" selection-start="547" selection-end="547" vertical-scroll-proportion="0.4183267" vertical-offset="105" max-vertical-offset="1065" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/global/quantity-input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="65" selection-start="281" selection-end="281" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-template-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="926" column="0" selection-start="22655" selection-end="22655" vertical-scroll-proportion="-3.9" vertical-offset="13560" max-vertical-offset="27585">
           <folding>
-            <marker date="1402681393000" expanded="true" signature="11957:12042" placeholder="SELECT post_..$wpdb-&gt;postmeta WHERE..." />
-            <marker date="1402681393000" expanded="true" signature="13014:13099" placeholder="SELECT post_..$wpdb-&gt;postmeta WHERE..." />
+            <marker date="1403104003000" expanded="true" signature="33291:33369" placeholder="SELECT term_..." />
+            <marker date="1403104003000" expanded="true" signature="39120:39306" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-cart.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="996" column="51" selection-start="33223" selection-end="33223" vertical-scroll-proportion="-3.9" vertical-offset="14745" max-vertical-offset="31710">
+        <state line="559" column="34" selection-start="18352" selection-end="18352" vertical-scroll-proportion="10.5" vertical-offset="1350" max-vertical-offset="2400">
           <folding>
-            <element signature="n#get_cart_tax#0;n#WC_Cart#0;n#!!top" expanded="false" />
-            <element signature="n#get_taxes_total#0;n#WC_Cart#0;n#!!top" expanded="false" />
-            <element signature="n#get_discounts_before_tax#0;n#WC_Cart#0;n#!!top" expanded="false" />
-            <element signature="n#get_discounts_after_tax#0;n#WC_Cart#0;n#!!top" expanded="false" />
-            <element signature="n#get_total_discount#0;n#WC_Cart#0;n#!!top" expanded="false" />
-            <marker date="1403016126000" expanded="true" signature="14268:15342" placeholder="SELECT SUM( ..." />
+            <element signature="e#7#76#0" expanded="false" />
+            <element signature="e#78#236#0" expanded="false" />
+            <element signature="e#263#287#0" expanded="false" />
+            <element signature="n#__construct#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#1088#1211#0" expanded="false" />
+            <element signature="n#save_address#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#1277#1354#0" expanded="false" />
+            <element signature="e#1358#1485#0" expanded="false" />
+            <element signature="e#1596#1633#0" expanded="false" />
+            <element signature="e#1884#3803#0" expanded="false" />
+            <element signature="e#1929#1997#0" expanded="false" />
+            <element signature="e#2018#2244#0" expanded="false" />
+            <element signature="e#2050#2133#0" expanded="false" />
+            <element signature="e#2138#2239#0" expanded="false" />
+            <element signature="e#2426#2595#0" expanded="false" />
+            <element signature="e#2623#3799#0" expanded="false" />
+            <element signature="e#2700#3794#0" expanded="false" />
+            <element signature="e#2747#3788#0" expanded="false" />
+            <element signature="e#2772#3201#0" expanded="false" />
+            <element signature="e#2876#3188#0" expanded="false" />
+            <element signature="e#3208#3504#0" expanded="false" />
+            <element signature="e#3297#3491#0" expanded="false" />
+            <element signature="e#3511#3781#0" expanded="false" />
+            <element signature="e#3588#3768#0" expanded="false" />
+            <element signature="e#3807#4190#0" expanded="false" />
+            <element signature="e#3852#3953#0" expanded="false" />
+            <element signature="e#4196#4284#0" expanded="false" />
+            <element signature="n#save_account_details#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#4330#4407#0" expanded="false" />
+            <element signature="e#4411#4546#0" expanded="false" />
+            <element signature="e#4819#4857#0" expanded="false" />
+            <element signature="e#5558#5607#0" expanded="false" />
+            <element signature="e#5611#5760#0" expanded="false" />
+            <element signature="e#5764#6114#0" expanded="false" />
+            <element signature="e#5924#6114#0" expanded="false" />
+            <element signature="e#6118#6384#0" expanded="false" />
+            <element signature="e#6252#6384#0" expanded="false" />
+            <element signature="e#6528#6670#0" expanded="false" />
+            <element signature="e#6570#6666#0" expanded="false" />
+            <element signature="e#6674#6976#0" expanded="false" />
+            <element signature="e#6982#7021#0" expanded="false" />
+            <element signature="n#checkout_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#7061#7500#0" expanded="false" />
+            <element signature="e#7183#7306#0" expanded="false" />
+            <element signature="e#7311#7404#0" expanded="false" />
+            <element signature="e#7506#7540#0" expanded="false" />
+            <element signature="n#pay_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#7590#9617#0" expanded="false" />
+            <element signature="e#7903#9612#0" expanded="false" />
+            <element signature="e#8083#8182#0" expanded="false" />
+            <element signature="e#8187#8280#0" expanded="false" />
+            <element signature="e#8285#8387#0" expanded="false" />
+            <element signature="e#8392#8482#0" expanded="false" />
+            <element signature="e#8517#9606#0" expanded="false" />
+            <element signature="e#8796#8942#0" expanded="false" />
+            <element signature="e#9131#9432#0" expanded="false" />
+            <element signature="e#9321#9424#0" expanded="false" />
+            <element signature="e#9440#9606#0" expanded="false" />
+            <element signature="e#9623#9672#0" expanded="false" />
+            <element signature="n#add_payment_method_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#9737#10502#0" expanded="false" />
+            <element signature="e#10158#10497#0" expanded="false" />
+            <element signature="e#10323#10491#0" expanded="false" />
+            <element signature="e#10509#10546#0" expanded="false" />
+            <element signature="n#update_cart_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#10608#11318#0" expanded="false" />
+            <element signature="e#10796#10914#0" expanded="false" />
+            <element signature="e#10940#11318#0" expanded="false" />
+            <element signature="e#11399#13570#0" expanded="false" />
+            <element signature="e#11703#12869#0" expanded="false" />
+            <element signature="e#11753#12864#0" expanded="false" />
+            <element signature="e#11915#11995#0" expanded="false" />
+            <element signature="e#12493#12721#0" expanded="false" />
+            <element signature="e#12728#12830#0" expanded="false" />
+            <element signature="e#13082#13170#0" expanded="false" />
+            <element signature="e#13175#13566#0" expanded="false" />
+            <element signature="e#13284#13566#0" expanded="false" />
+            <element signature="e#13576#13618#0" expanded="false" />
+            <element signature="n#order_again#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#13674#13855#0" expanded="false" />
+            <element signature="e#14036#14079#0" expanded="false" />
+            <element signature="e#14083#14136#0" expanded="false" />
+            <element signature="e#14268#14339#0" expanded="false" />
+            <element signature="e#14389#15439#0" expanded="false" />
+            <element signature="e#14809#15121#0" expanded="false" />
+            <element signature="e#14875#15116#0" expanded="false" />
+            <element signature="e#14983#15116#0" expanded="false" />
+            <element signature="e#15155#15324#0" expanded="false" />
+            <element signature="e#15692#15728#0" expanded="false" />
+            <element signature="n#cancel_order#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
+            <element signature="e#15765#17312#0" expanded="false" />
+            <element signature="e#16265#17235#0" expanded="false" />
+            <element signature="e#16351#16961#0" expanded="false" />
+            <element signature="e#16962#17154#0" expanded="false" />
+            <element signature="e#17155#17235#0" expanded="false" />
+            <element signature="e#17240#17308#0" expanded="false" />
+            <element signature="e#17541#17642#0" expanded="false" />
+            <element signature="e#19328#19860#0" expanded="false" />
+            <element signature="e#19388#19837#0" expanded="false" />
+            <element signature="e#19479#19837#0" expanded="false" />
+            <element signature="e#20585#21631#0" expanded="false" />
+            <element signature="e#20697#21153#0" expanded="false" />
+            <element signature="e#20760#20806#0" expanded="false" />
+            <element signature="e#20979#21147#0" expanded="false" />
+            <element signature="e#21013#21140#0" expanded="false" />
+            <element signature="e#21159#21239#0" expanded="false" />
+            <element signature="e#21245#21440#0" expanded="false" />
+            <element signature="e#21447#21631#0" expanded="false" />
+            <element signature="e#21933#22182#0" expanded="false" />
+            <element signature="e#22000#22177#0" expanded="false" />
+            <element signature="e#22269#22669#0" expanded="false" />
+            <element signature="e#22433#22664#0" expanded="false" />
+            <element signature="e#22526#22664#0" expanded="false" />
+            <element signature="e#22676#22712#0" expanded="false" />
+            <element signature="e#22750#25179#0" expanded="false" />
+            <element signature="e#22887#25175#0" expanded="false" />
+            <element signature="e#23098#23276#0" expanded="false" />
+            <element signature="e#23282#23458#0" expanded="false" />
+            <element signature="e#23464#23640#0" expanded="false" />
+            <element signature="e#23646#24151#0" expanded="false" />
+            <element signature="e#23813#24082#0" expanded="false" />
+            <element signature="e#23905#24082#0" expanded="false" />
+            <element signature="e#24090#24151#0" expanded="false" />
+            <element signature="e#24441#25059#0" expanded="false" />
+            <element signature="e#24533#25059#0" expanded="false" />
+            <element signature="e#24546#24815#0" expanded="false" />
+            <element signature="e#24641#24724#0" expanded="false" />
+            <element signature="e#24725#24815#0" expanded="false" />
+            <element signature="e#25066#25175#0" expanded="false" />
+            <element signature="e#25185#25224#0" expanded="false" />
+            <element signature="e#25271#25333#0" expanded="false" />
+            <element signature="e#25369#25563#0" expanded="false" />
+            <element signature="e#25600#27140#0" expanded="false" />
+            <element signature="e#25911#27135#0" expanded="false" />
+            <element signature="e#26192#26391#0" expanded="false" />
+            <element signature="e#26397#26579#0" expanded="false" />
+            <element signature="e#26675#26824#0" expanded="false" />
+            <element signature="e#26719#26818#0" expanded="false" />
+            <element signature="e#26830#27130#0" expanded="false" />
+            <element signature="e#27146#27189#0" expanded="false" />
+            <element signature="e#27234#29069#0" expanded="false" />
+            <element signature="e#27344#27495#0" expanded="false" />
+            <element signature="e#27463#27495#0" expanded="false" />
+            <element signature="e#27500#27651#0" expanded="false" />
+            <element signature="e#27619#27651#0" expanded="false" />
+            <element signature="e#27656#28128#0" expanded="false" />
+            <element signature="e#27852#28030#0" expanded="false" />
+            <element signature="e#28037#28128#0" expanded="false" />
+            <element signature="e#28340#28539#0" expanded="false" />
+            <element signature="e#28620#28740#0" expanded="false" />
+            <element signature="e#28810#28972#0" expanded="false" />
+            <element signature="e#28886#28972#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/global/adminfee-input.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="769" column="0" selection-start="19237" selection-end="19237" vertical-scroll-proportion="-6.0" vertical-offset="11235" max-vertical-offset="21315">
+        <state line="15" column="6" selection-start="460" selection-end="460" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="255">
           <folding>
-            <marker date="1403021682000" expanded="true" signature="26114:26370" placeholder="SELECT SUM(m..$wpdb-&gt;commentmeta&#10;&#9;&#9;&#9;&#9;&#9;LEFT..." />
-            <marker date="1403021682000" expanded="true" signature="26853:27106" placeholder="SELECT COUNT..$wpdb-&gt;commentmeta&#10;&#9;&#9;&#9;&#9;LEFT..." />
-            <marker date="1403021682000" expanded="true" signature="30894:30934" placeholder="SELECT DISTI..." />
+            <marker date="1403061371000" expanded="true" signature="189:459" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="40" selection-start="3416" selection-end="3416" vertical-scroll-proportion="0.3586207" vertical-offset="910" max-vertical-offset="2370">
-          <folding />
+        <state line="27" column="18" selection-start="593" selection-end="593" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="2580">
+          <folding>
+            <marker date="1403109186000" expanded="true" signature="715:857" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="724:857" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="724:745" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="731:735" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="731:735" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="1147:1365" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="1147:1167" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="1865:1905" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="2179:2227" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="2526:2607" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="3296:3350" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="3870:3970" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="4556:4596" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="4836:4994" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="4872:4994" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="4951:4994" placeholder="..." />
+            <marker date="1403109186000" expanded="true" signature="5940:5960" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-form-handler.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-cart.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="535" column="0" selection-start="17316" selection-end="17316" vertical-scroll-proportion="2.443439" vertical-offset="1155" max-vertical-offset="7980">
+        <state line="1094" column="75" selection-start="36629" selection-end="36629" vertical-scroll-proportion="-164.7" vertical-offset="8175" max-vertical-offset="32295">
           <folding>
-            <element signature="n#__construct#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
-            <element signature="n#save_address#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
-            <element signature="n#save_account_details#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
-            <element signature="n#checkout_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
-            <element signature="n#pay_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
-            <element signature="e#9623#9672#0" expanded="false" />
-            <element signature="n#add_payment_method_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
-            <element signature="e#10509#10546#0" expanded="false" />
-            <element signature="n#update_cart_action#0;n#WC_Form_Handler#0;n#!!top" expanded="false" />
-            <element signature="e#10608#11318#0" expanded="false" />
-            <element signature="e#10796#10914#0" expanded="false" />
-            <element signature="e#10940#11318#0" expanded="false" />
+            <marker date="1403109358000" expanded="true" signature="14268:15342" placeholder="SELECT SUM( ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="763" column="40" selection-start="19012" selection-end="19030" vertical-scroll-proportion="-5.1" vertical-offset="11190" max-vertical-offset="21330">
+          <folding>
+            <marker date="1403109492000" expanded="true" signature="26097:26353" placeholder="SELECT SUM(m..$wpdb-&gt;commentmeta&#10;&#9;&#9;&#9;&#9;&#9;LEFT..." />
+            <marker date="1403109492000" expanded="true" signature="26836:27089" placeholder="SELECT COUNT..$wpdb-&gt;commentmeta&#10;&#9;&#9;&#9;&#9;LEFT..." />
+            <marker date="1403109492000" expanded="true" signature="30877:30917" placeholder="SELECT DISTI..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/assets/js/admin/accounting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="374" column="8" selection-start="10093" selection-end="12227" vertical-scroll-proportion="0.37945792" vertical-offset="5344" max-vertical-offset="6270">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>

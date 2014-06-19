@@ -557,7 +557,7 @@ class WC_Form_Handler {
 
 			$variation_id       = empty( $_REQUEST['variation_id'] ) ? '' : absint( $_REQUEST['variation_id'] );
 			$quantity           = empty( $_REQUEST['quantity'] ) ? 1 : apply_filters( 'woocommerce_stock_amount', $_REQUEST['quantity'] );
-            $adminfee           = empty( $_REQUEST['adminfee'] ) ? '' : apply_filters('woocommerce_get_price_adminfee', $_REQUEST['adminfee'] );
+            $adminfee           = $_REQUEST['adminfee'];
 			$all_variations_set = true;
 			$variations         = array();
 
